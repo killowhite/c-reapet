@@ -1,0 +1,15 @@
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\bin\Debug\net6.0\практика.exe
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\bin\Debug\net6.0\практика.deps.json
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\bin\Debug\net6.0\практика.runtimeconfig.json
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\bin\Debug\net6.0\практика.dll
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\bin\Debug\net6.0\практика.pdb
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.csproj.AssemblyReference.cache
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.AssemblyInfoInputs.cache
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.AssemblyInfo.cs
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.csproj.CoreCompileInputs.cache
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.dll
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\refint\практика.dll
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.pdb
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\практика.genruntimeconfig.cache
+C:\Users\1s\Desktop\с# return (1)\лекции\лекция1\практика\obj\Debug\net6.0\ref\практика.dll
